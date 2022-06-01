@@ -7,6 +7,12 @@ output: pdf_document
 
 ### This document provides general guidelines for using the NGS Core lab space and instruments.
 
+## NGS Email List
+All users must sign up for the NGS email list here: https://lists.colostate.edu/cgi-bin/mailman/listinfo/ngs_announcements
+
+## Training
+All users must be trained before using any equipment. Contact Marylee for training.
+
 ## Scheduling
 - Please use the shared Outlook Calendar: `CVMBS MIP NGS Access`
 - You do not have permissions to edit the calendar, so please send Marylee an email with the following information:
