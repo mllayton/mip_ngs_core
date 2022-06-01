@@ -26,9 +26,12 @@ d) Kit type
 - For sequencing runs, please provide the account number when you schedule a run. 
 - For all other equipment, please fill out the log book in the NGS Core with the following: 
 
-a)What you used
+a) What you used
+
 b) Your full name
+
 c) Your PI's name
+
 d) Account Number
 
 ## Lab Etiquette
