@@ -10,10 +10,10 @@ All users must be trained before using any equipment. Contact Marylee for traini
 - Please use the shared Outlook Calendar: `CVMBS MIP NGS Access`
 - You do not have permissions to edit the calendar, so please send Marylee an email with the following information:
 
-  a) Desired Run Date
-  b) PI Name
-  c) Account Number
-  d) Kit type
+a) Desired Run Date
+b) PI Name
+c) Account Number
+d) Kit type
 
 - For MiSeq and NextSeq runs, you must load your run by noon on your scheduled day. This prevents your run from continuing into the next persons run. 
 
@@ -23,10 +23,10 @@ All users must be trained before using any equipment. Contact Marylee for traini
 - For sequencing runs, please provide the account number when you schedule a run. 
 - For all other equipment, please fill out the log book in the NGS Core with the following: 
 
-  a) What you used
-  b) Your full name
-  c) Your PI's name
-  d) Account Number
+a)What you used
+b) Your full name
+c) Your PI's name
+d) Account Number
 
 ## Lab Etiquette
 - Please clean the bench space with 70% ethanol before and after using.
