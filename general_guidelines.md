@@ -11,8 +11,11 @@ All users must be trained before using any equipment. Contact Marylee for traini
 - You do not have permissions to edit the calendar, so please send Marylee an email with the following information:
 
 a) Desired Run Date
+
 b) PI Name
+
 c) Account Number
+
 d) Kit type
 
 - For MiSeq and NextSeq runs, you must load your run by noon on your scheduled day. This prevents your run from continuing into the next persons run. 
