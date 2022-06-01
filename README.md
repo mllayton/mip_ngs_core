@@ -4,7 +4,7 @@ _Mission: We exist to facilitate access to sequencers and other related instrume
 
 ###	Illumina Instrument Operations
 1.	Training: 
-a.	Users must undergo a 3-step training before independently loading the sequencers. The Facilitator (Marylee Kapuscinski) will host monthly or twice-monthly group training sessions: Users learn how the instruments work, how to perform library QC and quantification, how to perform the denature & dilution protocol, and how to load and start a sequencing run. 
+a.	Users must undergo a 3-step training before independently loading the sequencers. The Facilitator (Marylee Kapuscinski) will host monthly or twice-monthly group training sessions: Users learn how the instruments work, how to perform [library QC and quantification](https://github.com/mllayton/mip_ngs_core/tree/main/QC_materials), how to perform the denature & dilution protocol, and how to load and start a sequencing run. 
 b.	One-on-one training: The user will load the sequencer under the supervision of the Facilitator. This will serve as a credentialing exercise for the user to be approved to run the sequencers independently.  
 c.	Upon success of the credentialling run, users will be approved to load future runs by themselves without supervision by the Facilitator. This approval will not be transferrable to other users: all new users must be independently trained and approved, and individual users cannot train or approve other users.  
 2.	Scheduling:
