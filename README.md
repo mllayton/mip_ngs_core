@@ -8,13 +8,7 @@ All users should sign-up to receive NGS emails. This is an important way for you
 ### NGS Equipment Teamup Calendar Links:
 Please use these links to reserve a timeslot on all shared equipment. There are also QR codes on each piece of equipment. For sequencing instruments, you must email Marylee @ Marylee.Layton@colostate.edu
 
-[Qubit](https://teamup.com/ksszx3gjbiqwonpuw5)
-[QuantStudio 3](https://teamup.com/ks6tijrqbtcb9g9cnv)
-[2200 Tapestation](https://teamup.com/ksd3h3qqbj5saqthtv)
-[4150 Tapestation](https://teamup.com/ks9x2ptyzii3db7def)
-[Thermal Cycler: Dino #1](https://teamup.com/ksncyp7uq8m6jzwdh7)
-[Thermal Cycler: Dino #2 ](https://teamup.com/ksygwnawd2x4gwfbsa)
-[Thermal Cycler: Dino #3](https://teamup.com/ks4e9dsnkn1gqzv23e)
+[Qubit](https://teamup.com/ksszx3gjbiqwonpuw5) | [QuantStudio 3](https://teamup.com/ks6tijrqbtcb9g9cnv) | [2200 Tapestation](https://teamup.com/ksd3h3qqbj5saqthtv) | [4150 Tapestation](https://teamup.com/ks9x2ptyzii3db7def) | [Thermal Cycler: Dino #1](https://teamup.com/ksncyp7uq8m6jzwdh7) | [Thermal Cycler: Dino #2 ](https://teamup.com/ksygwnawd2x4gwfbsa) | [Thermal Cycler: Dino #3](https://teamup.com/ks4e9dsnkn1gqzv23e)
 
 ###	Illumina Instrument Operations
 1.	Training: 
