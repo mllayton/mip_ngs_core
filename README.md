@@ -3,7 +3,18 @@
 _Mission: We exist to facilitate access to sequencers and other related instruments so that CSU researchers may have access to next-generation sequencing technology._
 
 ### NGS Email List
-All users should sign-up to recieve NGS emails. This is an important way for you to keep up-to-date with things in the lab.You can sign-up [here](https://lists.colostate.edu/cgi-bin/mailman/listinfo/ngs_announcements).
+All users should sign-up to receive NGS emails. This is an important way for you to keep up-to-date with things in the lab.You can sign-up [here](https://lists.colostate.edu/cgi-bin/mailman/listinfo/ngs_announcements).
+
+### NGS Equipment Teamup Calendar Links:
+Please use these links to reserve a timeslot on all shared equipment. There are also QR codes on each piece of equipment. For sequencing instruments, you must email Marylee @ Marylee.Layton@colostate.edu
+
+[Qubit] (https://teamup.com/ksszx3gjbiqwonpuw5)
+[QuantStudio 3] (https://teamup.com/ks6tijrqbtcb9g9cnv)
+[2200 Tapestation] (https://teamup.com/ksd3h3qqbj5saqthtv)
+[4150 Tapestation] (https://teamup.com/ks9x2ptyzii3db7def)
+[Thermal Cycler: Dino #1] (https://teamup.com/ksncyp7uq8m6jzwdh7)
+[Thermal Cycler: Dino #2 ] (https://teamup.com/ksygwnawd2x4gwfbsa)
+[Thermal Cycler: Dino #3] (https://teamup.com/ks4e9dsnkn1gqzv23e)
 
 ###	Illumina Instrument Operations
 1.	Training: 
@@ -35,7 +46,6 @@ The following instruments will be available open-access to trained and approved 
 -	Tapestation 4200
 -	Sage Science Pippin Prep instrument
 -	Qubit 2.0
--	Nanodrop
 -	3 ABI 9700 thermocyclers
 -	PCR hood
 -	3 sets of single channel pipets
